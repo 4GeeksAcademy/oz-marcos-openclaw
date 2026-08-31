@@ -1,0 +1,4 @@
+interface:
+  display_name: "SMS Token Saver"
+  short_description: "Comprime respuestas cuando queda muy poco contexto"
+  default_prompt: "Reduce al mínimo la respuesta conservando significado y datos críticos."

@@ -80,6 +80,14 @@ On platforms that support reactions (Discord, Slack), use emoji reactions natura
 
 Skills provide your tools. When you need one, check its `SKILL.md`. Keep local notes (camera names, SSH details, voice preferences) in `TOOLS.md`.
 
+### Context Emergency Compression
+
+If the runtime explicitly reports that the remaining token or context budget is
+low, use the workspace skill `skills/sms-token-saver/SKILL.md`. Compress messages
+progressively in Spanish SMS style while preserving exact code, commands, paths,
+data, risks, approvals, blockers, and deliverables. Do not activate it from a vague
+guess that the conversation merely feels long.
+
 **Voice storytelling:** if you have `sag` (ElevenLabs TTS), use voice for stories, movie summaries, and storytime moments - more engaging than walls of text.
 
 **Platform formatting:**
