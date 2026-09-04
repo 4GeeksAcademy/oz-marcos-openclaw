@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "zapier": {
+      "baseUrl": "https://mcp.zapier.com/api/v1/connect",
+      "headers": {
+        "Authorization": "Bearer YTk3ODk1ZTEtNjExYS00MzBiLTk4ZDEtNTk4NTc4Zjg0NzMwOlFObG1ha2pTckZqTzY2ajNFaVV2ZlZmMnp4dndUd21PNmE0My81UEN5a009"
+      },
+      "clientName": "openclaw"
+    }
+  }
+}
