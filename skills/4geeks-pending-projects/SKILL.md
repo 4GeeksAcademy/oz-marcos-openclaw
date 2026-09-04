@@ -22,8 +22,8 @@ El skill necesita dos variables de entorno configuradas en `openclaw.json`:
 
 O en `.env`:
 ```
-FOURGEEKS_AUTH_TOKEN=9622f352d159999749f903d058b1d15086a35d55
-STUDENT_ID=8839adf5-2095-47d9-af63-4958e7c2b7c8
+FOURGEEKS_AUTH_TOKEN
+STUDENT_ID
 ```
 
 ## How to use
